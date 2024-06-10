@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''
-    Testing the file_storage module.
+    Test the file_storage module.
 '''
 import time
 import unittest
