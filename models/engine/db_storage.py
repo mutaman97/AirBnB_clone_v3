@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''
-    Define class DatabaseStorage
+    Defines class DatabaseStorage
 '''
 from os import getenv
 from sqlalchemy import create_engine, MetaData
